@@ -1,0 +1,43 @@
+{
+  "title": "Selbsthilfegruppe Zwangserkrankungen\nFrankfurt und Umgebung",
+  "headerImage": "logo.jpg",
+  "impressum": "Impressum\n\nSelbsthilfegruppe Zwangserkrankung -  Frankfurt und Umgebung\n\nVerantwortlich für die Website und den Inhalt gemäß § 18 Abs. 2 MStV:\n\nOle Jürgens (Ansprechpartner / Verantwortlicher)\nGinnheimer Landstraße 39b\n60487 Frankfurt am Main\nDeutschland\n\nE-Mail: juergensole@web.de",
+  "tabs": [
+    {
+      "title": "Über uns",
+      "icon": "👥",
+      "text": "Wir sind eine Selbsthilfegruppe für Menschen mit Zwangserkrankungen (Zwangsstörungen) und deren Angehörige in Frankfurt und Umgebung.\nUnsere Gruppe bietet einen geschützten Raum, in dem Betroffene über ihre Erkrankung reden können – ohne dafür bewertet oder kritisiert zu werden.\nWir versuchen uns gegenseitig zu helfen, indem wir Erfahrungen und Tipps/Bewältigungsmethoden austauschen.\nGerade der Austausch mit Menschen, die Ähnliches durchmachen/durchgemacht haben, kann Positives bewirken.\n\nWichtig: Unsere Gruppe ersetzt keine professionelle Therapie - kann aber eine gute Unterstützung zusätzlich sein.\n\nNeue Teilnehmerinnen und Teilnehmer sind jederzeit willkommen. Die Teilnahme ist freiwillig und vertraulich.",
+      "images": []
+    },
+    {
+      "title": "News",
+      "icon": "📢",
+      "text": "Hier werden Neuigkeiten hochgeladen (Stand: 11.06.2026)",
+      "images": []
+    },
+    {
+      "title": "Termine",
+      "icon": "📅",
+      "text": "Wir treffen uns jeden 1. und 3. Mittwoch eines Monats von 19:00-21:00 Uhr.\n\nBeispiel: Im Juni 2026 sind die Termine am 03.06. und 17.06.",
+      "images": []
+    },
+    {
+      "title": "FAQs",
+      "icon": "❓",
+      "text": "Kostet die Teilnahme etwas?\nNein, die Teilnahme ist kostenlos.\n\nKann ich einfach so vorbeikommen?\nJa, du kannst einfach vorbeikommen zu den Terminen an die angegebene Adresse. Gerne kannst du auch per Email (unter Kontakt zu finden) Bescheid geben.\n\n Dürfen nur Betroffene kommen?\nNein, es dürfen auch Angehörige/Freunde von Betroffenen kommen.",
+      "images": []
+    },
+    {
+      "title": "Kontakt",
+      "icon": "✉️",
+      "text": "E-Mail: zwang-ffm@posteo.de\nTelefon: (+49)171 2030538",
+      "images": []
+    },
+    {
+      "title": "Anfahrt",
+      "icon": "🗺️",
+      "text": "Begegnungs- und Servicezentrum Heddernheim \nAßlarer Strasse 3\n60439 Frankfurt am Main.\n\nTipp: Die U-Bahn-Station Zeilweg ist nur ca. 100m entfernt.",
+      "images": []
+    }
+  ]
+}

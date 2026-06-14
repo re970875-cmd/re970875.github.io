@@ -1,0 +1,37 @@
+{
+  "title": "Selbsthilfegruppe Zwangserkrankung - Frankfurt und Umgebung",
+  "headerImage": "header.jpg",
+  "impressum": "Impressum: Max Mustermann, Frankfurt, Kontakt: example@mail.de",
+  "tabs": [
+    {
+      "title": "Über uns",
+      "text": "Wir sind eine Selbsthilfegruppe...",
+      "images": []
+    },
+    {
+      "title": "News",
+      "text": "Iran greift Usa mit Langstreckenraketen an",
+      "images": ["news1.jpg"]
+    },
+    {
+      "title": "Termine",
+      "text": "Bei Vollmond",
+      "images": []
+    },
+    {
+      "title": "FAQs",
+      "text": "Wie hoch ist dein Bodycount? 46",
+      "images": []
+    },
+    {
+      "title": "Kontakt",
+      "text": "Nein bitte nicht",
+      "images": []
+    },
+    {
+      "title": "Anfahrt",
+      "text": "Mach mal lieber ne Abfahrt",
+      "images": []
+    }
+  ]
+}
